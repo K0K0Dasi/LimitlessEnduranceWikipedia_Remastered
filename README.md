@@ -1,5 +1,2 @@
 # LimitlessEnduranceWikipedia_Remastered
-The GitHub Wikipage for the Limitless Endurance Roleplay Server based off of the World Endurance Championship.
-
-
-THIS IS A TEST TO SEE IF IT UPDATES FILES.
+The GitHub Wikipage for the Limitless Endurance Roleplay Server based off of the World Endurance Championship, the wikipedia page features information about Limitless Endurance, standings, updates, seasons, champions, hall of fame OCs, and much more.
